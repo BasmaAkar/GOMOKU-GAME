@@ -11,9 +11,15 @@ Gomoku Game build with java using  Algorithm "Alphabeta"
 
   ###  You can chose what you want , if you want to play with compture or with another player 
 ![image](https://user-images.githubusercontent.com/101791324/209113384-b12e05c1-f9fb-42cd-8ba1-0c58ababe875.png)
+![image](https://user-images.githubusercontent.com/101791324/209114900-e098a015-bc4d-4823-9238-bac5e4c0a010.png)
+![image](https://user-images.githubusercontent.com/101791324/209115328-0c9ca3ca-b40a-4f95-b144-79f14d64b893.png)
+![image](https://user-images.githubusercontent.com/101791324/209115227-3e9862bd-f7f8-4760-abdd-01453010e6fb.png)
+
+
 
   ### You have also the choice over the level of challenge of the game : Easy, Medium or  Hard by default it's Medium 
-![image](https://user-images.githubusercontent.com/101791324/209112001-a7ba3de8-428f-478d-bb4f-c9282ef206d9.png)
+![image](https://user-images.githubusercontent.com/101791324/209114802-e24e8284-9339-4c56-840a-a44f7a08463e.png)
+
 
 ### The game can help you to choose your next position 3 times.
 ![image](https://user-images.githubusercontent.com/101791324/209113464-1a1e5727-536e-4999-b1e8-40b57da483aa.png)
