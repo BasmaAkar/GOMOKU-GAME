@@ -5,7 +5,8 @@ Gomoku Game build with java using  Algorithm "Alphabeta"
 ![image](https://user-images.githubusercontent.com/101791324/209110109-5c979842-48b9-4729-a6d9-90056e01dd49.png)
 
 ### Final Project interface 
-![image](https://user-images.githubusercontent.com/101791324/209110545-710cf13a-fd39-43fe-ba2d-559a72f8c8c4.png)
+![image](https://user-images.githubusercontent.com/101791324/209114590-1d08197f-8510-4d92-bab5-55ca08accb72.png)
+
 ![image](https://user-images.githubusercontent.com/101791324/209114156-1c0066a1-39d7-4fdb-936c-ff856f7ff2de.png)
 
   ###  You can chose what you want , if you want to play with compture or with another player 
